@@ -38,6 +38,3 @@ When rviz initializes, go to File > OpenConfig and then
 load the configuration file in estimation_assignment/resources/comp417.rviz which is going
 to start the visualization of laser scan messages, frames of reference, and particles.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
